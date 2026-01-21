@@ -1,7 +1,5 @@
 title: English for Designers
-description: Nejakej description
 url: https://bromovskaaneta.github.io
 baseurl: ""
 
 markdown: kramdown
-theme: minima
